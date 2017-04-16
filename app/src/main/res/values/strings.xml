@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AutoUpdateModel</string>
+    <string name="update">软件更新</string>
+    <string name="updateNow">马上更新</string>
+    <string name="updateLater">稍后更新</string>
+    <string name="loadTitle">更新提示信息</string>
+    <string name="cancleUpdate">取消更新</string>
+</resources>
